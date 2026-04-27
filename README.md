@@ -104,7 +104,7 @@ Pastikan sudah terinstall:
 
 ### 2\. Clone Repository
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/username-anda/nama-repo.gitcd nama-repo   `
+```   git clone https://github.com/username-anda/nama-repo.gitcd nama-repo   ```
 
 ### 3\. Install Dependency
 
