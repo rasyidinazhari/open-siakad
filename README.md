@@ -123,7 +123,12 @@ cp .env.example .envphp artisan key:generate
 Edit file .env:
 
 ```bash
-DB_DATABASE=nama_database_andaDB_USERNAME=rootDB_PASSWORD=# Midtrans SandboxMIDTRANS_SERVER_KEY=SB-Mid-server-xxxxxxxxMIDTRANS_CLIENT_KEY=SB-Mid-client-xxxxxxxxMIDTRANS_IS_PRODUCTION=false
+DB_DATABASE=nama_database_anda
+DB_USERNAME=root
+DB_PASSWORD=# Midtrans Sandbox
+MIDTRANS_SERVER_KEY=SB-Mid-server-xxxxxxxx
+MIDTRANS_CLIENT_KEY=SB-Mid-client-xxxxxxxx
+MIDTRANS_IS_PRODUCTION=false
 ```
 
 ### 5\. Migrasi Database
