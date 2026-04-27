@@ -125,7 +125,9 @@ Edit file .env:
 ```bash
 DB_DATABASE=nama_database_anda
 DB_USERNAME=root
-DB_PASSWORD=# Midtrans Sandbox
+DB_PASSWORD=
+
+# Midtrans Sandbox
 MIDTRANS_SERVER_KEY=SB-Mid-server-xxxxxxxx
 MIDTRANS_CLIENT_KEY=SB-Mid-client-xxxxxxxx
 MIDTRANS_IS_PRODUCTION=false
