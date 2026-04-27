@@ -104,7 +104,9 @@ Pastikan sudah terinstall:
 
 ### 2\. Clone Repository
 
-```   git clone https://github.com/username-anda/nama-repo.gitcd nama-repo   ```
+```bash
+git clone https://github.com/username-anda/nama-repo.gitcd nama-repo
+```
 
 ### 3\. Install Dependency
 
